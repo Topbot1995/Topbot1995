@@ -1,5 +1,5 @@
 Hi, I’m David Roadman. 👋
-I am a full stack developer with 7+ years of Programming Experiences.
+I am a full stack developer with 4+ years of Programming Experiences.
 
 Skills: Python, React, Ruby, Go, Solidity, Rust
 
